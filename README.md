@@ -1,4 +1,4 @@
-## Hey, I'm Guilherme Henrique de Brito Gonçalves Nuncio! 👋
+## Hey, I'm Guilherme Henrique! 👋
 <div align="center">
   <a href="https://github.com/Guilhermehenriquee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermehenriquee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
