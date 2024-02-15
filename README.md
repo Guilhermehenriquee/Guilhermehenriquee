@@ -50,16 +50,16 @@
 
   <div align="center"> 
     <a href="https://github.com/Guilhermehenriquee/">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=350px height=100%/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Guilhermehenriquee&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=350px height=100%/>
     </a><br>
-    <a align="center" href="https://github.com/Guilhermehenriquee/"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Shift-ky" width=350px height=100%/></a>
+    <a align="center" href="https://github.com/Guilhermehenriquee/"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Guilhermehenriquee" width=350px height=100%/></a>
 
 
   </div>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shift-ky&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=350px alt="Shift-ky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermehenriquee&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=350px alt="Guilhermehenriquee">
    
-  ![Snake animation](https://github.com/Shift-ky/Shift-ky/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Guilhermehenriquee/Guilhermehenriquee/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
