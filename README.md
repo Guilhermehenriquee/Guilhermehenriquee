@@ -11,9 +11,9 @@
 <div>
 
   ```lua
-  RobsonPaiva = {}
+  GuilhermeHenrique = {}
   function robson:new()
-    self.name = "Robson Paiva"
+    self.name = "Guilherme Henrique"
     self.age = 29
     self.mainLanguages = {'HTML5','CSS3','Javascript','jAVA'}
     return self
@@ -37,9 +37,9 @@
 <hr>
 <h3> Connect with me: 📱 </h3>
 <div align=center>
-  <a href="https://www.linkedin.com/in/robson-paiva-81202912b" alt="Robson Paiva | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
-  <a href="mailto:robsoncppaiva@gmail.com" alt="Robson Paiva | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"></a> &nbsp;
-  <a href="mailto:robson-costa@outlook.com.br" alt="Robson Paiva | Gmail"><img src="https://img.icons8.com/fluent/48/000000/email.png"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/guilhermehbgn/" alt="Guilherme Henrique | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+  <a href="mailto:guilhermehbgn@gmail.com" alt="Guilherme Henrique | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"></a> &nbsp;
+  <a href="mailto:guilherme.nuncio@outlook.com.br" alt="Guilherme Henrique | Gmail"><img src="https://img.icons8.com/fluent/48/000000/email.png"></a> &nbsp;
   
 </div>
 
