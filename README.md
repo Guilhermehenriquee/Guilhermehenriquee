@@ -14,8 +14,8 @@
   GuilhermeHenrique = {}
   function robson:new()
     self.name = "Guilherme Henrique"
-    self.age = 29
-    self.mainLanguages = {'HTML5','CSS3','Javascript','jAVA'}
+    self.age = 17
+    self.mainLanguages = {'HTML5','CSS3','Phyton','PHP'}
     return self
   end
   ```
@@ -49,10 +49,10 @@
   <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="400px" height="480">
 
   <div align="center"> 
-    <a href="https://github.com/Shift-ky">
+    <a href="https://github.com/Guilhermehenriquee/">
       <img src="https://github-readme-stats.vercel.app/api?username=Shift-ky&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=350px height=100%/>
     </a><br>
-    <a align="center" href="https://github.com/Shift-ky"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Shift-ky" width=350px height=100%/></a>
+    <a align="center" href="https://github.com/Guilhermehenriquee/"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shift-ky&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Shift-ky" width=350px height=100%/></a>
 
 
   </div>
