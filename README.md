@@ -12,7 +12,7 @@
 
   ```lua
   GuilhermeHenrique = {}
-  function robson:new()
+  function GH:new()
     self.name = "Guilherme Henrique"
     self.age = 17
     self.mainLanguages = {'HTML5','CSS3','Phyton','PHP'}
@@ -59,7 +59,6 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermehenriquee&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=350px alt="Guilhermehenriquee">
    
-  ![Snake animation](https://github.com/Guilhermehenriquee/Guilhermehenriquee/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
