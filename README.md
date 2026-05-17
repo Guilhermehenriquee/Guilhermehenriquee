@@ -14,7 +14,7 @@
   GuilhermeHenrique = {}
   function GH:new()
     self.name = "Guilherme Henrique"
-    self.age = 17
+    self.age = 19
     self.mainLanguages = {'HTML5','CSS3','Phyton','PHP'}
     return self
   end
