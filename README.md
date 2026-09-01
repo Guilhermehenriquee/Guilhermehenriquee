@@ -1,64 +1,26 @@
-<div align="center"> 
+<h1 align="center">Olá, eu sou o Guilherme 👋</h1> <h3 align="center">Desenvolvedor Full Stack | Sistemas, E-commerce e Soluções sob medida</h3> <p align="center"> 📍 Santa Catarina, Brasil </p>
+🚀 Sobre mim
 
-  <H1>👋🏻 Hello! I'm Guilherme Henrique. <img src="https://emojitool.com/img/vk/1.0/img__f09f87a7f09f87b7d19.png"></H1>
+Sou desenvolvedor full stack e trabalho como freelancer construindo sistemas de gestão, ERPs e lojas virtuais para empresas reais. Gosto de resolver problemas de negócio com código — desde a modelagem do sistema até a interface final que o cliente usa no dia a dia.
 
-  ![ ](https://komarev.com/ghpvc/?username=Guilhermehenriquee&color=green)
-  </a>
-  <a href="https://github.com/Guilhermehenriquee?tab=followers"><img src="https://img.shields.io/github/followers/Guilhermehenriquee?label=Followers&style=social" alt="GitHub Badge"></a>
-  <a href ="https://metrics.lecoq.io/Guilhermehenriquee?template=classic&base.hireable=true&repositories.forks=true&isocalendar=1&languages=1&lines=1&stars=1&habits=1&followup=1&people=1&repositories=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&calendar=false&calendar.limit=1&config.timezone=Asia%2FCalcutta"><img src="https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social"/>
+Atualmente focado em evoluir como desenvolvedor e buscando novas oportunidades para aplicar o que já construí na prática.
 
-</div>
-<div>
+💼 Projetos em destaque
 
-  ```lua
-  GuilhermeHenrique = {}
-  function GH:new()
-    self.name = "Guilherme Henrique"
-    self.age = 19
-    self.mainLanguages = {'HTML5','CSS3','Phyton','PHP'}
-    return self
-  end
-  ```
-  <hr>
-</div>
-<div align="center">
-<h3> My workspace 💻</h3>
+🚗 TurboClass Site web para vendas de carros, com listagem de veículos e área administrativa. TypeScript
 
-![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
-![](https://img.shields.io/badge/Intel-i5_12th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5)
-![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN)
-![](https://img.shields.io/badge/NVIDIA-GEFORCE_GTX_1650-informational?style=flat&logo=nvidia&logoColor=white&color=76bc00)
+⚽ Titanor Loja virtual de artigos esportivos, com envio para todo o Brasil. TypeScript
 
-  <h3 align="center">Languages and Tools:⚙️ </h3>
-  <div style="display: inline_block"><br>
-	<img src="https://skillicons.dev/icons?i=java,spring,js,python,html,css,bootstrap,mysql,git,github,figma,eclipse,vscode,androidstudio,linux" />
-<div> <br/>
+📱 GlobalPin Loja virtual especializada em venda de celulares. TypeScript
 
-<hr>
-<h3> Connect with me: 📱 </h3>
-<div align=center>
-  <a href="https://www.linkedin.com/in/guilhermehbgn/" alt="Guilherme Henrique | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
-  <a href="mailto:guilhermehbgn@gmail.com" alt="Guilherme Henrique | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"></a> &nbsp;
-  <a href="mailto:guilherme.nuncio@outlook.com.br" alt="Guilherme Henrique | Gmail"><img src="https://img.icons8.com/fluent/48/000000/email.png"></a> &nbsp;
-  
-</div>
+🏭 Sistema ERP para Gráfica (projeto privado — código do cliente) Sistema de gestão desenvolvido sob demanda para uma gráfica, cobrindo pedidos, produção e controle interno.
 
+📊 Sistema de Gestão de Vendas (projeto privado — código do cliente) Sistema web para controle de vendas e operação comercial.
 
-<div>
-  <h3> Statistics :📈</h3>
-  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="400px" height="480">
+Projetos privados foram desenvolvidos para clientes reais como freelancer. Posso apresentar prints, demonstrações e detalhes técnicos sob demanda.
 
-  <div align="center"> 
-    <a href="https://github.com/Guilhermehenriquee/">
-      <img src="https://github-readme-stats.vercel.app/api?username=Guilhermehenriquee&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=350px height=100%/>
-    </a><br>
-    <a align="center" href="https://github.com/Guilhermehenriquee/"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Guilhermehenriquee&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Guilhermehenriquee" width=350px height=100%/></a>
-
-
-  </div>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilhermehenriquee&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" width=350px alt="Guilhermehenriquee">
-   
-
-
-</div>
+🛠️ Tecnologias e ferramentas
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,html,css,js,python,php,ts,git,github,figma,vscode,androidstudio,linux" /> </p>
+📫 Contato
+<p align="left"> <a href="SEU_LINK_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Guilhermehenriquee&show_icons=true&theme=dark&hide_border=true" /> </p>
